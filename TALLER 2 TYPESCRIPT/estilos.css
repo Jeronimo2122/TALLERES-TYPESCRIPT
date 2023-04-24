@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+  }
+  
+  #table-bordered {
+    width: 50%;
+    float: left;
+  }
+  
+  #card {
+    max-width: 50%;
+    float: left;
+  }
